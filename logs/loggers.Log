@@ -1,0 +1,3 @@
+2022-06-17 14:49:06,279 ERROR L.log4jPractice [main] its error msg
+2022-06-17 14:49:06,299 FATAL L.log4jPractice [main] its fatal msg
+2022-06-17 14:49:06,299 WARN L.log4jPractice [main] its warn msg

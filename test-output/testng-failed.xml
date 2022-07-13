@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [All Test Suite]">
+  <test thread-count="5" name="C:/NumpyNinja_Maven/src/main/java/Assignments1/Testing4.java(failed)">
+    <classes>
+      <class name="Assignments1.Testing4">
+        <methods>
+          <include name="parlleltesting1"/>
+        </methods>
+      </class> <!-- Assignments1.Testing4 -->
+    </classes>
+  </test> <!-- C:/NumpyNinja_Maven/src/main/java/Assignments1/Testing4.java(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
